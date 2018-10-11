@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="3" name="Failed suite [Automation Test Suite]">
+  <test name="Regression testing(failed)">
+    <classes>
+      <class name="modules.ShipprofilesModule">
+        <methods>
+          <include name="afterTestMethod"/>
+          <include name="testSetup"/>
+          <include name="ShipProfiles_editProfile"/>
+          <include name="ShipProfiles_sidepanel"/>
+          <include name="deleteProfile"/>
+          <include name="Navigate_to_profiles"/>
+          <include name="newProfile"/>
+          <include name="verify_Shipiconprofiledropdown"/>
+          <include name="tearDownTest"/>
+        </methods>
+      </class> <!-- modules.ShipprofilesModule -->
+      <class name="modules.RegressionSmokeTest">
+        <methods>
+          <include name="log4j"/>
+          <include name="faqTest"/>
+          <include name="login"/>
+          <include name="users"/>
+          <include name="tearDown"/>
+          <include name="account"/>
+          <include name="fleet"/>
+          <include name="contact"/>
+        </methods>
+      </class> <!-- modules.RegressionSmokeTest -->
+    </classes>
+  </test> <!-- Regression testing(failed) -->
+</suite> <!-- Failed suite [Automation Test Suite] -->

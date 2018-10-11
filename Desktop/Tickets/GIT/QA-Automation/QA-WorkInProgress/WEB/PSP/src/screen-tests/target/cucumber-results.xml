@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="9" time="683.141145">
+<testcase classname="" name="Selection of ship global sanctions check from the filter." time="74.867553">
+<system-out><![CDATA[Given I login to devtest application with valid username and password.......passed
+Then I should be landed in Screening results page...........................passed
+Then check the filter.......................................................passed
+Then click on the ship name in the first row................................passed
+Then validate all the Latest Screening Results accordion....................passed
+And close the browser driver................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="" name="Selection of ship global sanctions check from the filter." time="99.814583">
+<system-out><![CDATA[Given I login to devtest application with valid username and password.......passed
+Then I should be landed in Screening results page...........................passed
+Then check the filter and select Ship global sanction check.................passed
+Then Critical value alone should be selected................................passed
+Then click on the ship name in the first row................................passed
+Then validate all the Latest Screening Results accordion....................passed
+Then validate whether Ship global sanctions list check result is Critical...passed
+And close the browser driver................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="" name="Selection of port state control check from the filter." time="79.067444">
+<system-out><![CDATA[Given I login to devtest application with valid username and password.......passed
+Then I should be landed in Screening results page...........................passed
+Then check the filter and select port state control check...................passed
+Then Warning value alone should be selected.................................passed
+Then click on the ship name in the first row................................passed
+Then validate all the Latest Screening Results accordion....................passed
+Then validate whether port state control check result is Warning............passed
+Then close the browser driver...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="" name="Selection of ship movement history check from the filter." time="90.62384">
+<system-out><![CDATA[Given I login to devtest application with valid username and password.......passed
+Then I should be landed in Screening results page...........................passed
+Then check the filter and select ship movement history check................passed
+Then OK value alone should be selected......................................passed
+Then click on the ship name in the first row................................passed
+Then validate all the Latest Screening Results accordion....................passed
+Then validate whether ship movementhistory check result is OK...............passed
+Then close the browser driver...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="" name="Selection of country sanctions check from the filter." time="90.711497">
+<system-out><![CDATA[Given I login to devtest application with valid username and password.......passed
+Then I should be landed in Screening results page...........................passed
+Then check the filter and select Country sanctions check....................passed
+Then OK value alone should be selected......................................passed
+Then click on the ship name in the first row................................passed
+Then validate all the Latest Screening Results accordion....................passed
+Then validate whether Country sanctions check result is OK..................passed
+Then close the browser driver...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="" name="Selection of company global sanctions check from the filter." time="86.20503">
+<system-out><![CDATA[Given I login to devtest application with valid username and password.......passed
+Then I should be landed in Screening results page...........................passed
+Then check the filter and select Company global sanctions check.............passed
+Then Unknown value alone should be selected.................................passed
+Then click on the ship name in the first row................................passed
+Then validate all the Latest Screening Results accordion....................passed
+Then validate whether Company global sanctions check result is Pending......passed
+Then close the browser driver...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="" name="Selection of overall screening result option from the filter." time="43.797147">
+<system-out><![CDATA[Given I login to devtest application with valid username and password.......passed
+Then I should be landed in Screening results page...........................passed
+Then check the filter and select overall screening result option............passed
+Then click on the Escalated results only toggle button......................passed
+Then close the browser driver...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="" name="Selection of overall screening result option from the filter." time="74.461654">
+<system-out><![CDATA[Given I login to devtest application with valid username and password.......passed
+Then I should be landed in Screening results page...........................passed
+Then check the filter and select overall screening result option............passed
+Then Critical value alone should be selected................................passed
+And close the browser driver................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="" name="Selection of option and result from the dropdown and checking the buton title according to selection" time="43.592397">
+<system-out><![CDATA[Given I login to devtest application with valid username and password.......passed
+Then I should be landed in Screening results page...........................passed
+Then check the filter and select overall screening result option............passed
+Then click on the Escalated results only toggle button......................passed
+]]></system-out>
+</testcase>
+</testsuite>

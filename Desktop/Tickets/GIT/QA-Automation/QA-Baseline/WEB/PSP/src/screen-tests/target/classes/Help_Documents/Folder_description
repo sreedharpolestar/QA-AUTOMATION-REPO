@@ -1,0 +1,22 @@
+1. src/test/resource/features:
+		This folder contains all the scenarios which are covered as part of the UserStory.
+	
+2. src/test/java/com.ps.maven.screening.stepDefinition:
+		This folder contains all the step definitions which are generated when the feature file is executed.
+		
+3. src/main/java/com.ps.maven.screen:
+		This folder contains all the page information and the locators.
+	
+4. src/main/java/com.ps.maven.utils:
+		This folder contains all the Browser information and the utilities.
+		
+5. src/test/java/runner/TestRunner:
+		This folder contains the test Runner where we can execute the individual scenarios or can run all teh scenarios.
+		
+6. src/main/resources :
+		This folder contains all the DriverBinaries(Browser drivers) , FileUploadData , Help Documents and the property file used for the data driven testing.
+		
+		
+
+		
+	

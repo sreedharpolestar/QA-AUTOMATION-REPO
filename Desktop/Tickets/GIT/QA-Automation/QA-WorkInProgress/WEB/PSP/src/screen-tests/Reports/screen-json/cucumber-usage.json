@@ -1,0 +1,550 @@
+[
+  {
+    "source": "^I should be landed in Screening results page$",
+    "steps": [
+      {
+        "name": "I should be landed in Screening results page",
+        "aggregatedDurations": {
+          "average": 10.392474028,
+          "median": 10.276648252
+        },
+        "durations": [
+          {
+            "duration": 10.253645953,
+            "location": "features/Screening_All_results.feature:14"
+          },
+          {
+            "duration": 10.641970293,
+            "location": "features/Screening_All_results.feature:24"
+          },
+          {
+            "duration": 10.235724454,
+            "location": "features/Screening_All_results.feature:36"
+          },
+          {
+            "duration": 10.695930657,
+            "location": "features/Screening_All_results.feature:47"
+          },
+          {
+            "duration": 10.226634838,
+            "location": "features/Screening_All_results.feature:59"
+          },
+          {
+            "duration": 10.243251426,
+            "location": "features/Screening_All_results.feature:71"
+          },
+          {
+            "duration": 10.293328989,
+            "location": "features/Screening_All_results.feature:83"
+          },
+          {
+            "duration": 10.276648252,
+            "location": "features/Screening_All_results.feature:92"
+          },
+          {
+            "duration": 10.665131394,
+            "location": "features/Screening_All_results.feature:101"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^check the filter and select Ship global sanction check\\.$",
+    "steps": [
+      {
+        "name": "check the filter and select Ship global sanction check.",
+        "aggregatedDurations": {
+          "average": 5.617350612,
+          "median": 5.617350612
+        },
+        "durations": [
+          {
+            "duration": 5.617350612,
+            "location": "features/Screening_All_results.feature:25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^check the filter and select port state control check$",
+    "steps": [
+      {
+        "name": "check the filter and select port state control check",
+        "aggregatedDurations": {
+          "average": 5.621013029,
+          "median": 5.621013029
+        },
+        "durations": [
+          {
+            "duration": 5.621013029,
+            "location": "features/Screening_All_results.feature:37"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^validate whether port state control check result is Warning$",
+    "steps": [
+      {
+        "name": "validate whether port state control check result is Warning",
+        "aggregatedDurations": {
+          "average": 2.114446993,
+          "median": 2.114446993
+        },
+        "durations": [
+          {
+            "duration": 2.114446993,
+            "location": "features/Screening_All_results.feature:41"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Critical value alone should be selected$",
+    "steps": [
+      {
+        "name": "Critical value alone should be selected",
+        "aggregatedDurations": {
+          "average": 31.944863876,
+          "median": 31.944863876
+        },
+        "durations": [
+          {
+            "duration": 22.349564749,
+            "location": "features/Screening_All_results.feature:26"
+          },
+          {
+            "duration": 41.540163004,
+            "location": "features/Screening_All_results.feature:94"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^validate all the Latest Screening Results accordion$",
+    "steps": [
+      {
+        "name": "validate all the Latest Screening Results accordion",
+        "aggregatedDurations": {
+          "average": 15.365927312,
+          "median": 15.374457843
+        },
+        "durations": [
+          {
+            "duration": 15.320488356,
+            "location": "features/Screening_All_results.feature:17"
+          },
+          {
+            "duration": 15.373105605,
+            "location": "features/Screening_All_results.feature:28"
+          },
+          {
+            "duration": 15.339234656,
+            "location": "features/Screening_All_results.feature:40"
+          },
+          {
+            "duration": 15.375810081,
+            "location": "features/Screening_All_results.feature:51"
+          },
+          {
+            "duration": 15.407603779,
+            "location": "features/Screening_All_results.feature:63"
+          },
+          {
+            "duration": 15.379321395,
+            "location": "features/Screening_All_results.feature:75"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^OK value alone should be selected$",
+    "steps": [
+      {
+        "name": "OK value alone should be selected",
+        "aggregatedDurations": {
+          "average": 13.061912708,
+          "median": 13.061912708
+        },
+        "durations": [
+          {
+            "duration": 13.074948133,
+            "location": "features/Screening_All_results.feature:49"
+          },
+          {
+            "duration": 13.048877284,
+            "location": "features/Screening_All_results.feature:61"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^check the filter and select overall screening result option$",
+    "steps": [
+      {
+        "name": "check the filter and select overall screening result option",
+        "aggregatedDurations": {
+          "average": 5.560512905,
+          "median": 5.545761263
+        },
+        "durations": [
+          {
+            "duration": 5.54111838,
+            "location": "features/Screening_All_results.feature:84"
+          },
+          {
+            "duration": 5.545761263,
+            "location": "features/Screening_All_results.feature:93"
+          },
+          {
+            "duration": 5.594659074,
+            "location": "features/Screening_All_results.feature:102"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^validate whether ship movementhistory check result is OK$",
+    "steps": [
+      {
+        "name": "validate whether ship movementhistory check result is OK",
+        "aggregatedDurations": {
+          "average": 2.135337542,
+          "median": 2.135337542
+        },
+        "durations": [
+          {
+            "duration": 2.135337542,
+            "location": "features/Screening_All_results.feature:52"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^click on the Escalated results only toggle button$",
+    "steps": [
+      {
+        "name": "click on the Escalated results only toggle button",
+        "aggregatedDurations": {
+          "average": 10.75103941,
+          "median": 10.75103941
+        },
+        "durations": [
+          {
+            "duration": 10.687154083,
+            "location": "features/Screening_All_results.feature:85"
+          },
+          {
+            "duration": 10.814924737,
+            "location": "features/Screening_All_results.feature:103"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^click on the ship name in the first row\\.$",
+    "steps": [
+      {
+        "name": "click on the ship name in the first row.",
+        "aggregatedDurations": {
+          "average": 26.641028411,
+          "median": 26.660434768
+        },
+        "durations": [
+          {
+            "duration": 26.669589245,
+            "location": "features/Screening_All_results.feature:16"
+          },
+          {
+            "duration": 26.685166638,
+            "location": "features/Screening_All_results.feature:27"
+          },
+          {
+            "duration": 26.539173985,
+            "location": "features/Screening_All_results.feature:39"
+          },
+          {
+            "duration": 26.651280292,
+            "location": "features/Screening_All_results.feature:50"
+          },
+          {
+            "duration": 26.801735073,
+            "location": "features/Screening_All_results.feature:62"
+          },
+          {
+            "duration": 26.499225236,
+            "location": "features/Screening_All_results.feature:74"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^validate whether Country sanctions check result is OK$",
+    "steps": [
+      {
+        "name": "validate whether Country sanctions check result is OK",
+        "aggregatedDurations": {
+          "average": 2.115714555,
+          "median": 2.115714555
+        },
+        "durations": [
+          {
+            "duration": 2.115714555,
+            "location": "features/Screening_All_results.feature:64"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I login to devtest application with valid username and password$",
+    "steps": [
+      {
+        "name": "I login to devtest application with valid username and password",
+        "aggregatedDurations": {
+          "average": 16.81808357,
+          "median": 16.517681872
+        },
+        "durations": [
+          {
+            "duration": 18.484328382,
+            "location": "features/Screening_All_results.feature:13"
+          },
+          {
+            "duration": 16.440013868,
+            "location": "features/Screening_All_results.feature:23"
+          },
+          {
+            "duration": 16.503824498,
+            "location": "features/Screening_All_results.feature:35"
+          },
+          {
+            "duration": 16.459001933,
+            "location": "features/Screening_All_results.feature:46"
+          },
+          {
+            "duration": 16.819349518,
+            "location": "features/Screening_All_results.feature:58"
+          },
+          {
+            "duration": 16.964493136,
+            "location": "features/Screening_All_results.feature:70"
+          },
+          {
+            "duration": 16.670373845,
+            "location": "features/Screening_All_results.feature:82"
+          },
+          {
+            "duration": 16.503685084,
+            "location": "features/Screening_All_results.feature:91"
+          },
+          {
+            "duration": 16.517681872,
+            "location": "features/Screening_All_results.feature:100"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^check the filter and select Company global sanctions check$",
+    "steps": [
+      {
+        "name": "check the filter and select Company global sanctions check",
+        "aggregatedDurations": {
+          "average": 5.584028768,
+          "median": 5.584028768
+        },
+        "durations": [
+          {
+            "duration": 5.584028768,
+            "location": "features/Screening_All_results.feature:72"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^validate whether Company global sanctions check result is Pending$",
+    "steps": [
+      {
+        "name": "validate whether Company global sanctions check result is Pending",
+        "aggregatedDurations": {
+          "average": 2.115297451,
+          "median": 2.115297451
+        },
+        "durations": [
+          {
+            "duration": 2.115297451,
+            "location": "features/Screening_All_results.feature:76"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^check the filter$",
+    "steps": [
+      {
+        "name": "check the filter",
+        "aggregatedDurations": {
+          "average": 3.536241714,
+          "median": 3.536241714
+        },
+        "durations": [
+          {
+            "duration": 3.536241714,
+            "location": "features/Screening_All_results.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^validate whether Ship global sanctions list check result is Critical$",
+    "steps": [
+      {
+        "name": "validate whether Ship global sanctions list check result is Critical",
+        "aggregatedDurations": {
+          "average": 2.106899492,
+          "median": 2.106899492
+        },
+        "durations": [
+          {
+            "duration": 2.106899492,
+            "location": "features/Screening_All_results.feature:29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^check the filter and select Country sanctions check$",
+    "steps": [
+      {
+        "name": "check the filter and select Country sanctions check",
+        "aggregatedDurations": {
+          "average": 5.69297358,
+          "median": 5.69297358
+        },
+        "durations": [
+          {
+            "duration": 5.69297358,
+            "location": "features/Screening_All_results.feature:60"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Warning value alone should be selected$",
+    "steps": [
+      {
+        "name": "Warning value alone should be selected",
+        "aggregatedDurations": {
+          "average": 2.104778335,
+          "median": 2.104778335
+        },
+        "durations": [
+          {
+            "duration": 2.104778335,
+            "location": "features/Screening_All_results.feature:38"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^close the browser driver$",
+    "steps": [
+      {
+        "name": "close the browser driver",
+        "aggregatedDurations": {
+          "average": 0.601663098,
+          "median": 0.601885549
+        },
+        "durations": [
+          {
+            "duration": 0.603259169,
+            "location": "features/Screening_All_results.feature:18"
+          },
+          {
+            "duration": 0.600511929,
+            "location": "features/Screening_All_results.feature:30"
+          },
+          {
+            "duration": 0.609247733,
+            "location": "features/Screening_All_results.feature:42"
+          },
+          {
+            "duration": 0.604602854,
+            "location": "features/Screening_All_results.feature:53"
+          },
+          {
+            "duration": 0.598608589,
+            "location": "features/Screening_All_results.feature:65"
+          },
+          {
+            "duration": 0.596506534,
+            "location": "features/Screening_All_results.feature:77"
+          },
+          {
+            "duration": 0.605171632,
+            "location": "features/Screening_All_results.feature:86"
+          },
+          {
+            "duration": 0.595396347,
+            "location": "features/Screening_All_results.feature:95"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^check the filter and select ship movement history check$",
+    "steps": [
+      {
+        "name": "check the filter and select ship movement history check",
+        "aggregatedDurations": {
+          "average": 5.626928037,
+          "median": 5.626928037
+        },
+        "durations": [
+          {
+            "duration": 5.626928037,
+            "location": "features/Screening_All_results.feature:48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Unknown value alone should be selected$",
+    "steps": [
+      {
+        "name": "Unknown value alone should be selected",
+        "aggregatedDurations": {
+          "average": 8.822906447,
+          "median": 8.822906447
+        },
+        "durations": [
+          {
+            "duration": 8.822906447,
+            "location": "features/Screening_All_results.feature:73"
+          }
+        ]
+      }
+    ]
+  }
+]

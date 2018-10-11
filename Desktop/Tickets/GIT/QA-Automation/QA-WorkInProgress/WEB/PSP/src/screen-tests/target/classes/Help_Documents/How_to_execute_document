@@ -1,0 +1,43 @@
+Method 1:
+
+	Step 1:
+
+		Download the repo from the the Git location https://github.com/polestarglobal/qa-aa/tree/master/screen-tests to your local machine.
+
+	Step 2:
+
+		Install the eclipse IDE probably latest.
+
+	Step 3:
+
+		Import this Screening project as the Maven project into the Eclipse.
+
+	Step 4:
+
+		Now click on the Project name and select "Maven" -> "Update Project"
+
+	Step 5:
+
+		Next right click on the "pom.xml".
+			a. mvn clean
+			b. mvn install
+			
+	Step 6: 
+	
+		Report is seen under "Reports -> screen-pretty -> index.html"
+		
+
+Method 2:
+
+This is to run from the command prompt
+
+1. Navigate to the location where you have downloaded the repo.
+2. Do a "mvn clean"
+3. Do a "mvn install"
+
+*Note:* Make sure your system has the Maven project installed.
+
+
+
+
+
